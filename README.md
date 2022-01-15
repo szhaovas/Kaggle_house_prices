@@ -1,1 +1,1 @@
-My attempt at [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), score `0.12320`. Our team alternated between two separate versions when doing this competition, and this version was written entirely by me, credits to my teammates for many interesting ideas, though :)
+My attempt at [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), score `0.12320`.
